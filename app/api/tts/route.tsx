@@ -1,3 +1,4 @@
+export const runtime = 'nodejs';
 const doctorIdToVoiceMapping: Record<number, string> = {
   1: "en-US-marcus",   // General Physician - Male
   2: "en-US-arnold",   // Pediatrician - Male
